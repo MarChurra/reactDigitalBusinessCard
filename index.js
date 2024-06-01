@@ -19,7 +19,7 @@ ReactDOM.render(<App />, document.getElementById("root"))
 document.getElementById('emailBtn').addEventListener('click', function () {
     const emailAddress = 'mchurra@outlook.pt'
     const subject = 'Enter In Contact'
-    const body = 'Content of your email'
+    const body = 'What would you like to say?'
 
     const mailToLink = 'mailto:' + emailAddress + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body)
 
