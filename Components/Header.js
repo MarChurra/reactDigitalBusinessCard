@@ -8,7 +8,7 @@ export default function Header() {
             <div className="container">
                 <h1 className= "developer---name">Marco Churra</h1>
                 <h2 className="title">Frontend Developer</h2>
-                <button> <img className = "icon--email" src= "./Images/email.png" />Email</button>
+                <button id="emailBtn" > <img className = "icon--email" src= "./Images/email.png" />Email</button>
             </div>
         </header>
     )
