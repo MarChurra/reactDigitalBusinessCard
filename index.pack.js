@@ -405,9 +405,12 @@ function Footer() {
     return _react2.default.createElement(
         "footer",
         null,
-        _react2.default.createElement("img", { className: "icon--unavailable", src: "./Images/twitter.png" }),
-        _react2.default.createElement("img", { className: "icon--unavailable", src: "./Images/facebook.png" }),
-        _react2.default.createElement("img", { className: "icon--unavailable", src: "./Images/instagram.png" }),
+        _react2.default.createElement(
+            "a",
+            { href: "https://www.instagram.com/marco_churra/" },
+            _react2.default.createElement("img", { className: "icon--unavailable", src: "./Images/instagram.png" }),
+            " "
+        ),
         _react2.default.createElement(
             "a",
             { href: "https://linkedin.com/in/marcochurra" },
