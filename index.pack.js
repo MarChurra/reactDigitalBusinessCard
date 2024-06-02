@@ -410,7 +410,7 @@ function Footer() {
         _react2.default.createElement("img", { className: "icon--unavailable", src: "./Images/instagram.png" }),
         _react2.default.createElement(
             "a",
-            { href: "www.linkedin.com/in/marco-churra" },
+            { href: "https://linkedin.com/in/marcochurra" },
             " ",
             _react2.default.createElement("img", { src: "./Images/linkedin.png" }),
             " "
@@ -615,7 +615,7 @@ _reactDom2.default.render(_react2.default.createElement(App, null), document.get
 document.getElementById('emailBtn').addEventListener('click', function () {
     var emailAddress = 'mchurra@outlook.pt';
     var subject = 'Enter In Contact';
-    var body = 'Content of your email';
+    var body = 'What would you like to say?';
 
     var mailToLink = 'mailto:' + emailAddress + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
 
