@@ -5,7 +5,7 @@ export default function Main() {
         <main>
             <section>
                 <h2>About</h2>
-                <p>I am a 25 year old developer, currently residing in Lisbon, seeking to keep improving my craft everyday, in order to create stunning, interactable and acessible websites. I hope that my work will eventually be of aid to as much people as possible.</p>
+                <p>I am a Front End Developer, currently residing in Lisbon, seeking to keep improving my craft everyday, in order to create stunning, interactable and acessible websites. I hope that my work will eventually be of aid to as much people as possible.</p>
             </section>
             <section>
                 <h2>Interests</h2>
