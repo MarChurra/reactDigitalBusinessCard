@@ -508,7 +508,7 @@ function Main() {
             _react2.default.createElement(
                 'p',
                 null,
-                'I am a 25 year old developer, currently residing in Lisbon, seeking to keep improving my craft everyday, in order to create stunning, interactable and acessible websites. I hope that my work will eventually be of aid to as much people as possible.'
+                'I am a Front End Developer, currently residing in Lisbon, seeking to keep improving my craft everyday, in order to create stunning, interactable and acessible websites. I hope that my work will eventually be of aid to as much people as possible.'
             )
         ),
         _react2.default.createElement(
